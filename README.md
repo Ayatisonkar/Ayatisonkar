@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there 👋,I'm Ayati Sonkar
 
+
+![Ayatisonkar's Stats](https://github-readme-stats.vercel.app/api?username=Ayatisonkar&theme=solarized-light&show_icons=true&hide_border=true&count_private=true)
+![Ayatisonkar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayatisonkar&theme=solarized-light&hide_border=true)
+![Ayatisonkar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayatisonkar&theme=solarized-light&show_icons=true&hide_border=true&layout=compact)
 <!--
 **Ayatisonkar/Ayatisonkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
