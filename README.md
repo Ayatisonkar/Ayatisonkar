@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Blockchain and ML enthusiast.</h3>
 
 - 🌱 I’m currently learning **Django**
-<h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **ayati16j2003@gmail.com**
 
 ![Ayatisonkar's Stats](https://github-readme-stats.vercel.app/api?username=Ayatisonkar&theme=solarized-light&show_icons=true&hide_border=true&count_private=true)
