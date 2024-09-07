@@ -4,9 +4,11 @@
 - 🌱 I’m currently learning **Django**
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **ayati16j2003@gmail.com**
+
 ![Ayatisonkar's Stats](https://github-readme-stats.vercel.app/api?username=Ayatisonkar&theme=solarized-light&show_icons=true&hide_border=true&count_private=true)
 ![Ayatisonkar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayatisonkar&theme=solarized-light&hide_border=true)
 ![Ayatisonkar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayatisonkar&theme=solarized-light&show_icons=true&hide_border=true&layout=compact)
+
 <p align="left">
 </p>
 
